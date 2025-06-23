@@ -1,0 +1,7 @@
+PRICE==>8,999
+
+Camera: 13MP Rear Camera | 5MP Front Camera
+Display: HD+(1600x700) IPS LCD display; 15.58 centimeters (6.53 inch); 20:9 aspect ratio
+Processor: MediaTek Helio G25 Octa-core processor; Up to 2.0 GHz clock speed
+Battery: 5000 mAh large battery with 10W fast charger in-box and Micro USB connectivity
+Memory, Storage & SIM:4GB RAM | 64GB storage expandable upto 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual standby(4G+4G)

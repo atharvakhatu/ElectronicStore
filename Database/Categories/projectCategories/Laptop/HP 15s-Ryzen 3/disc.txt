@@ -1,0 +1,11 @@
+PRICE===>28,999
+
+Processor: AMD Ryzen 3 3250U (2.6 GHz base clock(2h), up to 3.5 GHz max boost clock(2i), 4 MB L3 cache, 2 cores)| Memory & Storage: 8 GB DDR4-2400 SDRAM (1 x 8 GB)|
+Storage: 256 GB PCIe NVMe M.2 SSD Precision
+Display & Graphics: 39.6 cm (15.6") diagonal, HD, micro-edge, BrightView, 220 nits, 101 ppi,45%NTSC, 1366 x 768 |Graphics: AMD Radeon Graphics; Operating System & 
+Pre-installed Software: Pre-loaded Windows 11Home 64 Single Language|Microsoft Office 2021 Home & Student|McAfee LiveSafe (30 days free trial as default)
+Ports: 1 SuperSpeed USB Type-C 5Gbps signaling rate, 2 SuperSpeed USB Type-A 5Gbps signaling rate,1 Headphone/microphone Combo,1 AC Smart pin, 1 HDMI 1.4b
+Other Features: Webcam: HP True Vision 720p HD Camera with Integrated dual array digital Microphones| Networking: Realtek RTL8821CE 802.11b/g/n/ac (2x2) and
+Bluetooth 5 combo MU-MIMO supported, Miracast compatible 
+Battery: 3-cell, 41 Wh Li-ion, Support battery fast charge|Audio: Dual Speakers
+Software Included: Microsoft Office 365

@@ -1,0 +1,9 @@
+Price==>6,999
+
+Processor: MediaTek Helio G25 Octa-core; Up to 2.0GHz clock speed
+Camera: 13 MP Rear camera with AI portrait| 5 MP front camera
+Display: 16.58 centimeters (6.53-inch) HD+ display with 720x1600 pixels and 20:9 aspect ratio
+Battery: 5000 mAH large battery with 10W wired charger in-box
+Memory, Storage & SIM: 2GB RAM | 32GB storage | Dual SIM (nano+nano) + Dedicated SD card slot
+The Selfie camera allows easy and convenient access to your phone with AI face unlock
+Form factor:Bar,Operating system:MIUI 12

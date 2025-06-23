@@ -1,0 +1,33 @@
+.margin{
+  background-image: url("D:\Project\React\estore\public\header1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.heading{
+  color: white;
+  font-size: 70px;
+}
+
+.margintop{
+
+  margin-top: 50px;
+  
+
+}
+
+.allcategories{
+  background-color: #c0eef2;
+}
+
+.allservices{
+  background-color: #cff5e7;
+}
+
+
+
+
+
+
+/* D:\Project\React\estore\public\images\header.jpg */

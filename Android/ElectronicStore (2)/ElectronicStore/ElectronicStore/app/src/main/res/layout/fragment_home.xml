@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/white"
+    tools:context=".ui.home.HomeFragment">
+
+
+    <EditText
+        android:drawableLeft="@drawable/search"
+        android:textColor="@color/black"
+        android:id="@+id/search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgView1"
+            android:src="@drawable/laptop1"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/imgView2"
+            android:src="@drawable/tv1"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imgView3"
+            android:src="@drawable/oven"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/imgView4"
+            android:src="@drawable/oppophone"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imgView5"
+            android:src="@drawable/tv2"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/imgView6"
+            android:src="@drawable/oven2"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imgView7"
+            android:src="@drawable/laptop2"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/imgView8"
+            android:src="@drawable/mobile2"
+            android:layout_width="150dp"
+            android:layout_height="200dp">
+        </ImageView>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ConditionTActivity">
+
+    <TextView
+        android:layout_marginBottom="20dp"
+        android:text="TermsAndConditions"
+        android:textSize="30dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Scope of Work: This section should clearly outline the scope of work, including all tasks and deliverables required for the project. It should also detail any milestones or deadlines for completion.
+
+Payment Terms: The payment terms should be clearly stated, including the amount and timing of payments. It should also include any penalties for late payment or any other payment-related issues.
+
+Intellectual Property Rights: This section should clarify who will own the intellectual property rights to any work created during the project. It should also outline any limitations on the use or sharing of this intellectual property.
+
+Confidentiality: This section should outline any obligations related to confidentiality and non-disclosure. This includes any trade secrets or confidential information that may be shared during the project.
+
+Liability and Indemnification: This section should detail the parties' liability and indemnification responsibilities. It should also include any limitations of liability or disclaimers of warranties.
+
+Termination: This section should outline the circumstances under which the project can be terminated and the consequences of termination, including any fees or penalties.
+
+Dispute Resolution: This section should outline the process for resolving any disputes that may arise during the project. This includes any requirements for mediation or arbitration.
+
+Governing Law: This section should specify which state's laws will govern the contract.
+
+Modifications: This section should outline how modifications to the contract will be made and any requirements for written consent.
+
+Independent Contractor: This section should clarify that the contractor is an independent contractor and not an employee or agent of the client.
+
+Please note that these are just general terms and conditions, and your specific project may require additional clauses or modifications. It's always a good idea to consult with a lawyer to ensure that your contract is legally sound and meets all necessary requirements."
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

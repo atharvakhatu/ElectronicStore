@@ -1,0 +1,10 @@
+PRICE==>52,999
+
+Pro-grade Camera that lets you make your nights epic with Nightography: It’s our brightest innovation yet. The sensor pulls in more light, the Super 
+Clear Glass dials down lens flare, and fast-acting AI delivers near-instant intelligent processing.
+VisionBooster outshines the sun: Stunning 120Hz Dynamic AMOLED 2X display is crafted specifically for high outdoor visibility, keeping the view clear in bright daylight.
+4nm processor, our fastest chip yet: Our fastest, most powerful chip ever. That means, a faster CPU and GPU compared to Galaxy S21 Ultra.
+It’s an epic leap for smartphone technology.
+Sleek design in a range of colors lets you express yourself how you like. The slim bezels flow into a symmetrical polished frame for an expansive, balanced display.
+Corning Gorilla Glass Victus+ on the screen and back panels.
+Connector type: usb type c

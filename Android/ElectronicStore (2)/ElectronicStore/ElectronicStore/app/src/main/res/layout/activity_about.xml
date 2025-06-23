@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:text="About Us"
+        android:textSize="40dp"
+
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="The objective is to maintain dominant position and further capture market share from the large unorganized refurbished segment of the IT Industry
+
+Procure quality used-PCs from corporates and make them as good as new by refurbishing in order to re-sell the same with a unique warranty policy to SMBs (Small and Medium Businesses) as well as retail end users at substantially discounted prices compared to brand new PCs providing amazing value proposition to the consumers
+
+Also build nationwide omni-channel presence in retail distribution, online and exclusive brick-and-mortar stores
+
+Recycle
+Aim to be the most trusted brand to provide the device buyback program.
+
+EB provides clean, safe and secure removal of redundant IT assets. We help organizations reclaim the value, back from retired equipment and safely dispose off any regulated electronics waste.
+
+Refurbish
+Set up the best in class device refurbishment facility with international standard grading.
+
+State-of-the-art manufacturing facilities in India and Dubai spread across 30K+ sq. ft area, equipped to provide manufacturing of critical components, assembly, testing and refurbishing services.
+
+Reuse
+Be the largest electronics player to drive the distribution of refurbished products.
+
+EB holds Certifications necessary for Refurbishers
+Extended Producer’s Responsibility (EPR)
+Issued by Central Pollution Control Board (CPCB)
+Proper channelization of e-waste to ensure environmentally sound management of such waste
+
+Consent to Operate (CTO)
+Issued by Maharashtra Pollution Control Board (MPCB)
+The consent is valid for the activity of Collection, Segregation, Refurbishment and Dismantling E-waste"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp" />
+
+
+</LinearLayout>

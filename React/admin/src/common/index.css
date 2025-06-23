@@ -1,0 +1,87 @@
+.marginset {
+  margin: 20px;
+  border: 2px solid black;
+}
+
+/* .margin {
+  //background-image: url("C:\Users\ankit\OneDrive\Desktop\estorebackground.webp");
+  margin: 20px;
+} */
+
+.td {
+ padding:5px;
+}
+
+.margin {
+  margin-top: 5px;
+}
+
+
+/* .margin{
+  background-image: url("D:\Project\React\estore\public\header1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+} */
+
+.background{
+
+  background-image: url("D:\Project\React\admin\public\header1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+
+}
+.heading{
+  color: white;
+  font-size: 20px;
+}
+
+.headingtop{
+  color: white;
+  font-size: 70px;
+}
+
+.addservice{
+  background-image: url("D:\Project\React\admin\public\blur.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}
+.addproducts{
+  background-image: url("D:\Project\React\admin\public\2.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}
+.color{
+  color:black;
+  font-weight: bold;
+}
+
+
+.showproducts{
+background-color: #bfdce5;
+
+}
+
+.showservice{
+
+  background-color: #e5d1fa;
+}
+
+.showorders{
+background-color: #bef0cb;
+
+}
+
+.login{
+
+  background-image: url("D:\Project\React\admin\public\gada.jpg");
+  background-size: cover;
+  background-position: center;
+
+  color:black;
+  font-weight: bold;
+
+}

@@ -1,0 +1,59 @@
+create database PracticeForProject2;
+
+use PracticeForProject2;
+
+CREATE TABLE `admin` (
+  `a_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `name` varchar(255)  NOT NULL,
+  `email` varchar(255) UNIQUE NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `phone` varchar(12) NOT NULL
+ 
+);
+
+CREATE TABLE `category` (
+  `t_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT ,
+  `name` varchar(255) NOT NULL
+);
+
+CREATE TABLE `products` (
+  `p_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT ,
+  `name` varchar(255) NOT NULL,
+  `description` varchar(4096)  NOT NULL,
+  `price` decimal(10,2) NOT NULL,
+  `images` varchar(100) DEFAULT '0'
+  
+);
+
+CREATE TABLE `customer` (
+  `c_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `email` varchar(255) UNIQUE NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `address` varchar(255) NOT NULL,
+  `phone` varchar(12) NOT NULL
+ 
+);
+
+CREATE TABLE `cart` (
+`s_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+`quantity` int NOT NULL,
+`c_id` int DEFAULT '0',
+`p_id` int DEFAULT '0'
+);
+
+
+CREATE TABLE `orders` (
+  `o_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `quantity` int  NOT NULL,
+  `c_id` int NOT NULL,
+  `p_id` int NOT NULL
+  );
+
+CREATE TABLE `services` (
+  `sd_id` int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `address` varchar(255) NOT NULL,
+  `phone` varchar(12) NOT NULL
+);
+
